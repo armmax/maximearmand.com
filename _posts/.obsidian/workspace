@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "aa2e225e885878a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0efe80070dbbffce",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8da819769835df7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "468e8bce02d6d70b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa242414b414f9a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "857a8bc3859c15df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd39a72eda42b7a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f00b0c3fce483b67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d3c3b176659b252",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0efe80070dbbffce",
+  "lastOpenFiles": [
+    "2022-02-20-title.md",
+    "_templates/New blog post template.md",
+    "prefix-2022-02-20.md",
+    "2022-2-2-The-Electric-Kettle-Quest.md"
+  ]
+}
