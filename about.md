@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# Hi! I'm Maxime 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm the founder of the coliving operator [Urban Campus](https://www.urbancampus.com).
+This site hosts my exploration on entrepreneurship, sustainibility, gravel and any other topic my mind is curious about.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+DM me on Twitter [@armmax](https://twitter.com/armmax)
